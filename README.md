@@ -1,7 +1,7 @@
 # big-data-processing-hw8
 Eighth Homework for the UCU Big Data Processing course.
 
-##Usage:
+## Usage:
 
 In order to run kafka writer execute:
 
@@ -28,7 +28,11 @@ NOTE:
 Example of queries:
 
 http://172.29.0.5:5000/queries?query=1&uuid=C17222024
+
+
 http://172.29.0.5:5000/queries?query=2&uuid=C1735554279
+
+
 http://172.29.0.5:5000/queries?query=3&uuid=C721395199&start=2022-01-02&end=2022-07-01
 
 Make sure you have the dataset csv named as a dataset.csv stored in kafka_write directory
