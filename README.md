@@ -24,7 +24,8 @@ bash cassandra_app/build-run.sh
 
 To shutdown all the containers and cluster run all shutdown scripts.
 
-NOTE:
+## NOTE:
+
 Example of queries:
 
 http://172.29.0.5:5000/queries?query=1&uuid=C17222024
